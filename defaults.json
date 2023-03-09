@@ -1,0 +1,8 @@
+{
+	"font": "IBMPlexMono-Medium-24_jep",
+	"color": [255, 255, 255],
+	"speed": 50,
+	"animation": "scroll_rl",
+	"hold_time": 5,
+	"repeat": 1
+}
